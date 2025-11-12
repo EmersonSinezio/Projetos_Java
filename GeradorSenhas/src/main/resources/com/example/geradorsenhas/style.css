@@ -1,0 +1,27 @@
+#buttonGerar {
+    -fx-background-color: #0077b3;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 8;
+    -fx-cursor: hand;
+}
+
+#buttonGerar:hover {
+    -fx-background-color: #015782;
+}
+
+
+#buttonCopiar {
+    -fx-background-color: #d7eee4;
+    -fx-text-fill: #000;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+    -fx-border-color: #ccc;
+    -fx-background-radius: 8;
+    -fx-border-radius: 8;
+}
+
+#buttonCopiar:hover {
+    -fx-background-color: #fafafa;
+    -fx-border-color: ##333;
+}
