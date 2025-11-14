@@ -1,0 +1,8 @@
+#buttonAdd{
+    -fx-background-color: #ae76fe;
+    -fx-text-fill: #fff;
+}
+#buttonAdd:hover{
+    -fx-background-color: #6740ec;
+    -fx-cursor:hand;
+}
