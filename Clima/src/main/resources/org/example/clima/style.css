@@ -1,0 +1,8 @@
+#buttonSearch{
+    -fx-background-color: #5a79ba;
+    -fx-padding: 8px 0 8px 0;
+    -fx-text-fill:#fff;
+}
+#buttonSearch:hover{
+    -fx-background-color: #1c51c0;
+}
